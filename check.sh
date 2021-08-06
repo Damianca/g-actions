@@ -20,4 +20,7 @@ echo hoy es viernes 6 de agosto
 
 cal
 
+cat /etc/release*
+
+
 
