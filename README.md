@@ -1,2 +1,2 @@
-# g-actions
+# github-actions
 github actions
